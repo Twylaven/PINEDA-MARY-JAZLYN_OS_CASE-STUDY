@@ -1,0 +1,12 @@
+Launch the CASE_STUDY_OS.html file in any web browser of your choice.
+Choose which CPU Scheduling Algorithm you'd like to run a simulation on.
+Fill in the necessary information, including:
+
+How long each process takes to execute (Burst Time)
+When each process arrives (Arrival Time)
+The priority level of each process, if needed
+The time slice duration, if needed
+
+
+You can add or delete processes as needed, but make sure you have at least 3.
+Hit the Run Simulation button to compute and view the results.
